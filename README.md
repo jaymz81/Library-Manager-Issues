@@ -15,3 +15,13 @@ In addition to core book management features, the system includes support for bo
 - Export Book List to CSV (Allows users to download the entire list of books in .csv format)
 - Login System
 
+3. User interface
+
+- Login Page	
+- Home Page	
+- Add Book	
+- Edit Book	
+- Book Details	
+- Export Page	
+- Borrower Info	
+
