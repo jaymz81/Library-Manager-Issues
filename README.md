@@ -44,4 +44,8 @@ In addition to core book management features, the system includes support for bo
 ### 4.7. Borrower Info
  Input or display of borrower's name when marking a book as borrowed
 
+### 5. Technical Requirements 
+The Library Management System is built using the following technologies:
+
+Backend: Java, Spring, PostgreSQL and for frontend: Angular
 
