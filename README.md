@@ -31,16 +31,16 @@ In addition to core book management features, the system includes support for bo
 ### 4.1. Login Page	
  Allows admin to log in and access protected features
  ### 4.2. Home Page
-- Displays a list of all books with options to search, filter, borrow or return
- 4.3. Add Book
-- Form to add a new book to the library
- 4.4. Edit Book
-- Form to edit existing book information
- 4.5. Book Details
-- Detailed view of a single book, including borrower info
- 4.6. Export Page
-- Trigger CSV export or display a message or download button
- 4.7. Borrower Info
-- Input or display of borrower's name when marking a book as borrowed
+ Displays a list of all books with options to search, filter, borrow or return
+### 4.3. Add Book
+ Form to add a new book to the library
+### 4.4. Edit Book
+ Form to edit existing book information
+### 4.5. Book Details
+ Detailed view of a single book, including borrower info
+### 4.6. Export Page
+ Trigger CSV export or display a message or download button
+### 4.7. Borrower Info
+ Input or display of borrower's name when marking a book as borrowed
 
 
