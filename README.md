@@ -7,11 +7,11 @@ In addition to core book management features, the system includes support for bo
 
 2. Features
 
--Add a New Book (Provides a form for entering book details such as title, author)
--Edit or Delete a Book (Allows users to update existing book information or remove books from the system)
--Search / Filter Books (Enables users to search for books by title or author)
--Mark Book as Borrowed / Returned (Ability to toggle the borrowing status of a book)
--Borrower Tracking (Tracks who borrowed each book by storing borrower name or ID)
--Export Book List to CSV (Allows users to download the entire list of books in .csv format)
--Login System
+- Add a New Book (Provides a form for entering book details such as title, author)
+- Edit or Delete a Book (Allows users to update existing book information or remove books from the system)
+- Search / Filter Books (Enables users to search for books by title or author)
+- Mark Book as Borrowed / Returned (Ability to toggle the borrowing status of a book)
+- Borrower Tracking (Tracks who borrowed each book by storing borrower name or ID)
+- Export Book List to CSV (Allows users to download the entire list of books in .csv format)
+- Login System
 
