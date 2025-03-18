@@ -26,8 +26,7 @@ In addition to core book management features, the system includes support for bo
 - Export Page	
 - Borrower Info
 
-  https://github.com/jaymz81/Library-Manager-Issues/blob/main/LB%20Sitemap.png
-
+![alt text]()
 ### 4. Functionality
 
 ### 4.1. Login Page	
