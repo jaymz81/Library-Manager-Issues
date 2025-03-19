@@ -64,6 +64,6 @@ Backend: Java, Spring, PostgreSQL and for frontend: Angular
 ### 6.1. Tracking page
 ![alt text]()
 ### 6.1. Export page
-![alt text]()
+![alt text](https://github.com/jaymz81/Library-Manager-Issues/blob/main/Export%20page.png)
 
 
