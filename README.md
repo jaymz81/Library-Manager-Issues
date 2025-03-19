@@ -56,7 +56,7 @@ Backend: Java, Spring, PostgreSQL and for frontend: Angular
 ### 6.1. Login page
 ![alt text]()
 ### 6.1. Profile page
-![alt text]()
+![alt text](https://github.com/jaymz81/Library-Manager-Issues/blob/main/Profile%20page.png)
 ### 6.1. Books page
 ![alt text](https://github.com/jaymz81/Library-Manager-Issues/blob/main/Book%20page.png)
 ### 6.1. Students page
