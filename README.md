@@ -52,7 +52,7 @@ Backend: Java, Spring, PostgreSQL and for frontend: Angular
 ### 6. User interfaces
 
 ### 6.1. Homepage
-![alt text]()
+![alt text](https://github.com/jaymz81/Library-Manager-Issues/blob/main/Home%20page.png)
 ### 6.1. Login page
 ![alt text]()
 ### 6.1. Profile page
