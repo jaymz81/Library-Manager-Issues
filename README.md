@@ -60,7 +60,7 @@ Backend: Java, Spring, PostgreSQL and for frontend: Angular
 ### 6.1. Books page
 ![alt text](https://github.com/jaymz81/Library-Manager-Issues/blob/main/Book%20page.png)
 ### 6.1. Students page
-![alt text]()
+![alt text](https://github.com/jaymz81/Library-Manager-Issues/blob/main/Students%20page.png)
 ### 6.1. Tracking page
 ![alt text](https://github.com/jaymz81/Library-Manager-Issues/blob/main/Tracking%20page.png)
 ### 6.1. Export page
